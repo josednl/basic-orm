@@ -17,10 +17,35 @@ A lightweight Object-Relational Mapping (ORM) library for TypeScript with Postgr
 - 🏗️ Query builder for complex queries
 - 🧩 TypeScript-first design
 
-## Installation
+## Development
+
+### Prerequisites
+
+- Node.js >= 16.0.0
+- PostgreSQL >= 12.0
+- npm or yarn
+
+### Setup
 
 ```bash
-npm install basic-orm
+# Clone the repository
+git clone https://github.com/josednl/basic-orm.git
+cd basic-orm
+
+# Install dependencies
+npm install
+
+# Build the project
+npm run build
+
+# Run tests
+npm test
+```
+
+### Running Examples
+
+```bash
+npm run dev
 ```
 
 ## Quick Start
@@ -187,37 +212,6 @@ const usersPage = await userRepository
 | length | number | Length for string types |
 | precision | number | Precision for decimal types |
 | scale | number | Scale for decimal types |
-
-## Development
-
-### Prerequisites
-
-- Node.js >= 16.0.0
-- PostgreSQL >= 12.0
-- npm or yarn
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/josednl/basic-orm.git
-cd basic-orm
-
-# Install dependencies
-npm install
-
-# Build the project
-npm run build
-
-# Run tests
-npm test
-```
-
-### Running Examples
-
-```bash
-npm run dev
-```
 
 ## Contributing
 
