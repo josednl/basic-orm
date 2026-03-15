@@ -45,7 +45,11 @@ npm test
 ### Running Examples
 
 ```bash
+# To verify the module loads correctly (no database needed)
 npm run dev
+
+# To run the example code (requires PostgreSQL database)
+ts-node src/example.ts
 ```
 
 ## Quick Start

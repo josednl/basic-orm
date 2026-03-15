@@ -80,7 +80,7 @@ Never bypass these layers.
 ## Available Commands
 
 - `npm run build` - Compiles the TypeScript project to JavaScript
-- `npm run dev` - Runs the project in development mode with ts-node
+- `npm run dev` - Runs the project in development mode with ts-node (executes src/index.ts barrel file)
 - `npm test` - Executes tests with Jest
 
 ---
