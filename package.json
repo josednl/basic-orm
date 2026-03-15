@@ -1,0 +1,27 @@
+{
+  "name": "basic-orm",
+  "version": "1.0.0",
+  "description": "A basic ORM in TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "orm",
+    "typescript",
+    "database"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/pg": "^8.18.0",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "pg": "^8.11.0",
+    "reflect-metadata": "^0.2.1"
+  }
+}

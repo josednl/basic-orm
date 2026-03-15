@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "skills": {
+    "agentmd": {
+      "source": "mryll/skills",
+      "sourceType": "github",
+      "computedHash": "7e3b705735d0864b2a8122468210b61289c04c3ce5ca02b2adbb0f520daf688b"
+    },
+    "architecture-decision-records": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "73b129025ba53b5d672474492aa8d8803dde828cb8ac2bd5f2798b98d28a9147"
+    },
+    "architecture-designer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "computedHash": "ceb8ed4700727264339eae14508eca48a5ed0f0516e8a7f6a102b0c38aaaef04"
+    },
+    "architecture-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "baa0be9b01540d612be90820e654dccd2e41877f57e65ef1dc51a5387c5eecb9"
+    },
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "a0943c399704a12b1ba4a84045c81f69680ca7e2193359bd110a678bb07d338d"
+    },
+    "conventional-commit": {
+      "source": "marcelorodrigo/agent-skills",
+      "sourceType": "github",
+      "computedHash": "6b74ad3ffa6f7b52ac7a7f2781274e692a68145019be05eb4f87557197f195c0"
+    },
+    "docs-writer": {
+      "source": "google-gemini/gemini-cli",
+      "sourceType": "github",
+      "computedHash": "3910559dd53ebea1c3468d69537bf1d6a3ba23d6db0b1e0328c9758fe345da10"
+    },
+    "documentation-writer": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "ee53d65b163cd7eb953a930c95841cfe398cc2c0bd24c06508bbaa07c432be35"
+    },
+    "readme": {
+      "source": "shpigford/skills",
+      "sourceType": "github",
+      "computedHash": "1626ec24fed073dc77c22f97a452b2dc0539e1d0c05023798915687929f3f97a"
+    },
+    "security-best-practices": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "computedHash": "0c42fff660b6f7e85add36437edc36976466bb254b7cd9eb38ec67b2ad64a9bf"
+    }
+  }
+}
