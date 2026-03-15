@@ -202,7 +202,6 @@ Use this table to determine which skill to load based on the assigned task:
 
 | Task | Skill | Description | Path |
 |------|-------|-------------|------|
-
 | Create or update project documentation | `readme` | For creating or updating README.md files with complete documentation | `.agents/skills/readme/SKILL.md` |
 | Design system architecture | `architecture-designer` | To create architecture diagrams, evaluate technological trade-offs and design components | `.agents/skills/architecture-designer/SKILL.md` |
 | Implement architecture patterns | `architecture-patterns` | To apply Clean Architecture, Hexagonal Architecture or DDD | `.agents/skills/architecture-patterns/SKILL.md` |

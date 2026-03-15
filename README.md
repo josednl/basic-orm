@@ -165,7 +165,6 @@ const usersPage = await userRepository
 
 | Property | Type | Description |
 |----------|------|-------------|
-
 | host | string | Database host |
 | port | number | Database port |
 | username | string | Database username |
@@ -179,7 +178,6 @@ const usersPage = await userRepository
 
 | Property | Type | Description |
 |----------|------|-------------|
-
 | type | string | Column type (string, number, boolean, date, etc.) |
 | primary | boolean | Marks column as primary key |
 | generated | boolean | Marks column as auto-generated |
@@ -202,7 +200,7 @@ const usersPage = await userRepository
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/basic-orm.git
+git clone https://github.com/josednl/basic-orm.git
 cd basic-orm
 
 # Install dependencies
